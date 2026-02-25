@@ -131,10 +131,10 @@ display_menu() {
     echo -e "${white} x ${nc}  : Exit Script"
     echo -e ""
     echo -e "${red}=========================================${nc}"
-    echo -e "${white} Client Name ${nc}: VIP-MEMBERS"
+    echo -e "${white} Client Name ${nc}: SK-SHAKIBUL-PANEL"
     echo -e "${white} Expired     ${nc}: Lifetime"
     echo -e "${red}=========================================${nc}"
-    echo -e "${blue}         t.me/givps_com ${nc}"
+    echo -e "${blue}         http://T.me/skshakibhasan1234 ${nc}"
     echo -e "${red}=========================================${nc}"
     echo -e ""
 }
